@@ -289,7 +289,7 @@ module.exports.list = [
     tech_stack: ["JavaScript", "MaterializeCSS", "Node"],
     github_username: "FuzzySid",
     twitter_username: "#"
-  }
+  },
   {
     name: "Kishan",
     country: "India",
